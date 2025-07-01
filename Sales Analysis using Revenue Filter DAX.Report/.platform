@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Sales Analysis using Revenue Filter DAX"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5f6e0645-64f0-4d33-823d-d630ccb79b81"
+  }
+}
